@@ -662,8 +662,8 @@ goto :eof
 	echo.
 	echo  For more information, please refer to "README.md".
 	echo.
-	echo  More projects from TechnicalUserX:
-	echo  https://github.com/TechnicalUserX
+	echo  More projects from cyberion-zerocool:
+	echo  https://github.com/cyberion-zerocol
 	echo.
 	echo.
 	echo Press any key to continue...
